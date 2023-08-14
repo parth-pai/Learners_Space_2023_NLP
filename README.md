@@ -18,3 +18,6 @@ I used "sacrebleu" scoring method to evaluate the model for fine-tuning.
 
 ## Unique Challenges Faced:
 Choosing the dataset was a task on itself because some of them had way too many rows(~4M+) which couldn't be handled by colab and some had way too less rows (~10k) which would not be suitable for training. Also even though the code I had written was correct, the trainer wasn't getting pushed to Huggingface hub. That's why I later uploaded the model to google drive and operate further.
+
+Finally, thanks to WnCC on releasing these resources which could allow us to learn NLP!
+Link: https://github.com/deeksha-4/LS-Neural-Networks-NLP/tree/main
