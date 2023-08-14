@@ -1,6 +1,6 @@
 ## WnCC Learner's Space 2023 - Natural Language Processing.
 
-In the *final project* of Learner's Space, I built a Language Translation model (from English to Italian) and fine-tuned it for better performance of the model. 
+In the **Final Project** of Learner's Space, I built a Language Translation model (from English to Italian) and fine-tuned it for better performance of the model. 
 
 **IMP:** This is my link to the Google Drive folder of pre-trained model: https://drive.google.com/drive/folders/135ksdaONW43-_PxECt9VUlj5AK2ryYQm?usp=sharing
 
@@ -20,4 +20,5 @@ I used "sacrebleu" scoring method to evaluate the model for fine-tuning.
 Choosing the dataset was a task on itself because some of them had way too many rows(~4M+) which couldn't be handled by colab and some had way too less rows (~10k) which would not be suitable for training. Also even though the code I had written was correct, the trainer wasn't getting pushed to Huggingface hub. That's why I later uploaded the model to google drive and operate further.
 
 Finally, thanks to WnCC on releasing these resources which could allow us to learn NLP!
+
 Link: https://github.com/deeksha-4/LS-Neural-Networks-NLP/tree/main
