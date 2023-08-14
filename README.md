@@ -1,7 +1,8 @@
 ## WnCC Learner's Space 2023 - Natural Language Processing.
 
 In the *final project* of Learner's Space, I built a Language Translation model (from English to Italian) and fine-tuned it for better performance of the model. 
-# This is my link to the Google drive folder of pre-trained model : https://drive.google.com/drive/folders/135ksdaONW43-_PxECt9VUlj5AK2ryYQm?usp=sharing
+
+This is my link to the Google Drive folder of pre-trained model: https://drive.google.com/drive/folders/135ksdaONW43-_PxECt9VUlj5AK2ryYQm?usp=sharing
 
 ## Dataset:
 I used enimai/MuST-C-it dataset from Huggingface which has both sentences in English and their Translation in Italian. It has around 250k rows. Hence it was a suitable dataset to train from.
